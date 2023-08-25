@@ -37,7 +37,7 @@ function ScrollSection() {
       <div ref={triggerRef}>
         <div
           ref={sectionRef}
-          className="scroll-section-inner flex flex-row h-screen w-[400vw] relative"
+          className="scroll-section-inner flex flex-row h-screen w-[500vw] relative"
         >
           <div className="scroll-section  h-screen w-screen bg-red-500">
             <h3>Section 1</h3>
@@ -50,6 +50,9 @@ function ScrollSection() {
           </div>
           <div className="scroll-section h-screen w-screen bg-sky-500">
             <h3>Section 4</h3>
+          </div>
+          <div className="scroll-section h-screen w-screen bg-yellow-500">
+            <h3>Section 5</h3>
           </div>
         </div>
       </div>

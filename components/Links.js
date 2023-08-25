@@ -11,22 +11,22 @@ function Links() {
         Horizontal Scroll
       </Link>
       <Link
-        href="/horizontalScroll"
+        href="/imageSplash"
         className="text-center bg-sky-600 text-white font-extrabold text-sm rounded-md p-2"
       >
-        Horizontal Scroll
+        Image Splash
       </Link>
       <Link
-        href="/horizontalScroll"
+        href="/zoom"
         className="text-center bg-sky-600 text-white font-extrabold text-sm rounded-md p-2"
       >
-        Horizontal Scroll
+        Zoom
       </Link>
       <Link
-        href="/horizontalScroll"
+        href="/parallax"
         className="text-center bg-sky-600 text-white font-extrabold text-sm rounded-md p-2"
       >
-        Horizontal Scroll
+        Parallax Scroll
       </Link>
       <Link
         href="/horizontalScroll"

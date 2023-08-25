@@ -1,6 +1,6 @@
 import Hero from "@/components/Hero";
 import Links from "@/components/Links";
-import ScrollSection from "@/components/ScrollSection";
+import ScrollSection from "@/components/horizontalScroll/ScrollSection";
 
 export default function Home() {
   return (

@@ -1,11 +1,11 @@
 import Hero from "@/components/Hero";
-import ScrollSection from "@/components/horizontalScroll/ScrollSection";
+import ZoomScrollSection from "@/components/zoom/ZoomScrollSection";
 
 export default function Home() {
   return (
     <main className=" bg-black text-white ">
       <Hero />
-      <ScrollSection />
+      <ZoomScrollSection />
       <Hero />
     </main>
   );
