@@ -17,10 +17,10 @@ function Links() {
         Floating Image
       </Link>
       <Link
-        href="/zoom"
+        href="/textOpacityOnScroll"
         className="text-center bg-sky-600 text-white font-extrabold text-sm rounded-md p-2"
       >
-        Zoom
+        Text Opacity On Scroll
       </Link>
       <Link
         href="/parallax"
