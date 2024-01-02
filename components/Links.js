@@ -23,10 +23,10 @@ function Links() {
         Text Opacity On Scroll
       </Link>
       <Link
-        href="/parallax"
+        href="/projectGallery"
         className="text-center bg-sky-600 text-white font-extrabold text-sm rounded-md p-2"
       >
-        Parallax Scroll
+        Project Gallery
       </Link>
       <Link
         href="/horizontalScroll"
