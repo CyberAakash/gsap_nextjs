@@ -4,8 +4,8 @@ import ScrollSection from "@/components/horizontalScroll/ScrollSection";
 
 export default function Home() {
   return (
-    <main className="relative min-h-screen bg-black text-white flex items-center justify-start flex-col gap-6 p-10">
-      <h1 className="absolute top-4 left-1/2 -translate-x-1/2 text-3xl font-extralight underline-offset-4 underline">GSAP Animations</h1>
+    <main className="relative min-h-screen h-fit bg-black text-white flex items-center justify-start flex-col gap-6 p-10 overflow-x-hidden">
+      <h1 className="text-7xl lg:text-9xl font-black w-full text-center text-transparent bg-clip-text bg-gradient-to-br from-violet-500 via-sky-400 to-green-300">GSAP Animations</h1>
       <Links />
     </main>
   )

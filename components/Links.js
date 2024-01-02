@@ -3,7 +3,7 @@ import React from 'react'
 
 function Links() {
   return (
-    <div className="grid place-items-center gap-10 grid-cols-3 h-fit w-screen pt-20 px-10">
+    <div className="h-fit w-screen relative overflow-x-hidden flex items-center justify-center flex-wrap gap-6 pt-20 px-10">
       <Link
         href="/horizontalScroll"
         className="text-center bg-sky-600 text-white font-extrabold text-sm rounded-md p-2"
@@ -11,10 +11,82 @@ function Links() {
         Horizontal Scroll
       </Link>
       <Link
-        href="/imageSplash"
+        href="/floatingImage"
         className="text-center bg-sky-600 text-white font-extrabold text-sm rounded-md p-2"
       >
-        Image Splash
+        Floating Image
+      </Link>
+      <Link
+        href="/zoom"
+        className="text-center bg-sky-600 text-white font-extrabold text-sm rounded-md p-2"
+      >
+        Zoom
+      </Link>
+      <Link
+        href="/parallax"
+        className="text-center bg-sky-600 text-white font-extrabold text-sm rounded-md p-2"
+      >
+        Parallax Scroll
+      </Link>
+      <Link
+        href="/horizontalScroll"
+        className="text-center bg-sky-600 text-white font-extrabold text-sm rounded-md p-2"
+      >
+        Horizontal Scroll
+      </Link>
+      <Link
+        href="/horizontalScroll"
+        className="text-center bg-sky-600 text-white font-extrabold text-sm rounded-md p-2"
+      >
+        Horizontal Scroll
+      </Link>
+      <Link
+        href="/zoom"
+        className="text-center bg-sky-600 text-white font-extrabold text-sm rounded-md p-2"
+      >
+        Zoom
+      </Link>
+      <Link
+        href="/parallax"
+        className="text-center bg-sky-600 text-white font-extrabold text-sm rounded-md p-2"
+      >
+        Parallax Scroll
+      </Link>
+      <Link
+        href="/horizontalScroll"
+        className="text-center bg-sky-600 text-white font-extrabold text-sm rounded-md p-2"
+      >
+        Horizontal Scroll
+      </Link>
+      <Link
+        href="/horizontalScroll"
+        className="text-center bg-sky-600 text-white font-extrabold text-sm rounded-md p-2"
+      >
+        Horizontal Scroll
+      </Link>
+      <Link
+        href="/zoom"
+        className="text-center bg-sky-600 text-white font-extrabold text-sm rounded-md p-2"
+      >
+        Zoom
+      </Link>
+      <Link
+        href="/parallax"
+        className="text-center bg-sky-600 text-white font-extrabold text-sm rounded-md p-2"
+      >
+        Parallax Scroll
+      </Link>
+      <Link
+        href="/horizontalScroll"
+        className="text-center bg-sky-600 text-white font-extrabold text-sm rounded-md p-2"
+      >
+        Horizontal Scroll
+      </Link>
+      <Link
+        href="/horizontalScroll"
+        className="text-center bg-sky-600 text-white font-extrabold text-sm rounded-md p-2"
+      >
+        Horizontal Scroll
       </Link>
       <Link
         href="/zoom"

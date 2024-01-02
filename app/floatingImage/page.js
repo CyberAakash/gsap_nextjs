@@ -1,11 +1,11 @@
 import Hero from "@/components/Hero";
-import ScrollSection from "@/components/horizontalScroll/ScrollSection";
+import FloatingImage from "@/components/floatingImage/FloatingImage";
 
 export default function Home() {
   return (
     <main className=" bg-black text-white ">
       <Hero />
-      <ScrollSection />
+      <FloatingImage />
       <Hero />
     </main>
   );
